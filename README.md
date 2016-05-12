@@ -5,7 +5,7 @@
 All you need to do is : 
 
 ```bash
-sh repair.sh
+curl -fsSL https://raw.githubusercontent.com/MickeyHub/XcodePluginsRepairer/master/repair.sh | sh
 ```
 if no need to repair, the output is:
 
