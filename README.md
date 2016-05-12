@@ -1,7 +1,5 @@
 # XcodePluginsRepairer
 
----
-
 All you need to do is : 
 
 ```bash
