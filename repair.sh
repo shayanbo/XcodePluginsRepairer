@@ -16,7 +16,7 @@ do
 done
 
 if [[ $hasChange == "0" ]]; then
-  echo "All Plugin is Compatible!"
+  echo "All Plugins is Compatible!"
 else
   echo "Please Restart Xcode $XCODE_VERSION🍺"
 fi
